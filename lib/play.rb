@@ -37,6 +37,8 @@ end
 
 # Define your play method below
 
-def play(arg)
+def play(input)
+  until input == 9
 
+  end
 end
