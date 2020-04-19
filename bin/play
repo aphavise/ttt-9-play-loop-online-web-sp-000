@@ -8,3 +8,6 @@ puts "Welcome to Tic Tac Toe!"
 display_board(board)
 
 # Make sure to execute #play below
+puts "Would you like to play Tic Tac Toe, please enter number 1-9"
+input = gets.strip
+play(input)
